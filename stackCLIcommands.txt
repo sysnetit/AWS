@@ -1,1 +1,3 @@
 aws cloudformation create-stack --template-body file://C:\Users\User\OneDrive\AWS\CloudFormation\1subnetVPCand1instances.json --stack-name my1instanceLinux --parameters file://C:\Users\User\OneDrive\AWS\CloudFormation\parametersfile.json
+
+test
